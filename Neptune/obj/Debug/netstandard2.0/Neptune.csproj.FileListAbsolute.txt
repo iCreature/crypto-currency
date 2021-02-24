@@ -1,0 +1,9 @@
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\bin\Debug\netstandard2.0\Neptune.deps.json
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\bin\Debug\netstandard2.0\Neptune.dll
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\obj\Debug\netstandard2.0\Neptune.csprojAssemblyReference.cache
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\obj\Debug\netstandard2.0\Neptune.csproj.CoreCompileInputs.cache
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\obj\Debug\netstandard2.0\Neptune.AssemblyInfoInputs.cache
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\obj\Debug\netstandard2.0\Neptune.AssemblyInfo.cs
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\bin\Debug\netstandard2.0\Neptune.pdb
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\obj\Debug\netstandard2.0\Neptune.dll
+C:\Users\Creature\source\repos\Azania-Neptune\Neptune-Wallet\Neptune\obj\Debug\netstandard2.0\Neptune.pdb
